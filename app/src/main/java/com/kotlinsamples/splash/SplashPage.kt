@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import com.kotlinsamples.R
 import com.kotlinsamples.databinding.ActivityMainBinding
+import com.kotlinsamples.databindingLivedata.CartActivity
 import com.kotlinsamples.mvvm.view.SimpleList
 
 class SplashPage : AppCompatActivity() {
@@ -17,7 +18,7 @@ class SplashPage : AppCompatActivity() {
         setContentView(view)
 
         Handler().postDelayed(Runnable {
-            val intent = Intent(this,SimpleList ::class.java)
+            val intent = Intent(this,CartActivity::class.java)
             startActivity(intent)
         },2000)
 

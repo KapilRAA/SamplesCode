@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KapilKotlinSamples/app/src/main/res/layout/activity_cart.xml" value="0.20416666666666666" />
         <entry key="..\:/KapilKotlinSamples/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/KapilKotlinSamples/app/src/main/res/layout/activity_simple_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/KapilKotlinSamples/app/src/main/res/layout/fragment_product.xml" value="0.19010416666666666" />
       </map>
     </option>
   </component>
